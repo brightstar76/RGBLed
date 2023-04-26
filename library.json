@@ -1,0 +1,29 @@
+{
+  "name": "RGBLed",
+  "version": "0.1.1",
+  "description": "An RGB LED-controlling library, letting you display any color from the RGB palette at any brightness, blink or fade at specified frequency and animate smooth transitions between colors.",
+  "keywords": "LED, RGB, Arduino",
+  "authors": [
+    {
+      "name": "Maciej Stępski",
+      "email": "neutronstar76@proton.me",
+      "url": ""
+    }
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brightstar76/RGBLed.git"
+  },
+  "dependencies": {
+    
+  },
+  "frameworks": [
+    "arduino"
+  ],
+  "platforms": [
+    "atmelavr",
+    "espressif8266"
+  ]
+}
